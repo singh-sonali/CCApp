@@ -1,0 +1,36 @@
+/*CSS Page for Displaying Announcements and Visits*/
+body{
+	font-family: sans-serif;
+	background-color: #ffffcc;
+}
+h1{
+	background-color: cadetblue;
+	padding: 2%;
+	text-align: center;
+}
+table{
+	margin: auto;
+	background-color: whitesmoke;
+	font-size: 18px;
+}
+
+tbody{
+	margin: auto;
+	display: block;
+}
+
+td{
+	text-align:center;
+}
+form{
+	font-size: 16px;
+	padding: 1%;
+	margin-top: 20px;
+	display: inline-block;
+}
+.button{
+	background-color: #ffffcc;
+	font-size: 16px;
+	padding: 0%;
+	margin-top: 15px;
+}

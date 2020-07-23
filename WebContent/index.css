@@ -1,0 +1,21 @@
+/*CSS formatting for main page.*/
+a{
+	text-decoration:none;
+	background-color: lightblue;
+	display:block;
+	width:75%;
+	color: black;
+	padding: 2%;
+	border: 5px solid black;
+	border-radius: 200px;
+	font-size:2em;
+	text-align: center;
+	margin: auto;
+	margin-bottom: 1%;
+	margin-top: 1%;
+}
+h2{
+	color:black;
+	text-align:center;
+}
+/*OMH: Ryan Kim & Roshni Surpur*/

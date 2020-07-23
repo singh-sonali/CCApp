@@ -1,0 +1,29 @@
+/*CSS for Entering Announcements and Visits Pages*/
+body{
+	font-family: sans-serif;
+}
+h1{
+	background-color: cadetblue;
+	padding: 2%;
+	text-align: center;
+}
+form{
+	padding: 1%;
+	font-size: 25px;
+}
+h3{
+	font-size:25px;
+
+}
+input{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 25px;
+	border:1px solid black;
+
+}
+input .desc{
+	width: 50vw;
+	word-wrap: break-word;
+	word-break: break-word;
+}
